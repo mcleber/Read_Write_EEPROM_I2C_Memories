@@ -151,7 +151,7 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## Author
+## Additional Notes
 
 Originally developed in 2013 as an embedded systems learning project.
 
