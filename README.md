@@ -4,8 +4,8 @@
 Old project: 2013.
 
 ![Platform](https://img.shields.io/badge/Platform-Arduino-blue)
-![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 ![IDE](https://img.shields.io/badge/IDE-Arduino%20IDE-blue)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 <p align="center"> <img src="assets/serial_monitor.png" width="450"> </p>
